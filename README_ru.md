@@ -31,7 +31,7 @@ PStrings - это легкая библиотека VBA, которая пред
 
 Чтобы использовать PStrings в своем проекте VBA, выполните следующие действия:
 
-1. Загрузите файл модуля PStrings из раздела [releases](https://github.com/example/PStrings/releases) этого репозитория.
+1. Загрузите файл модуля PStrings из раздела [releases](https://github.com/artemdorozhkin/PStrings/releases/) этого репозитория.
 2. Импортируйте модуль PStrings в свой проект VBA:
    - Откройте рабочую книгу Excel или проект VBA.
    - Нажмите `Alt + F11`, чтобы открыть редактор VBA.

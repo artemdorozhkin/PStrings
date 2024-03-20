@@ -31,7 +31,7 @@ PStrings is a lightweight VBA library that provides various string manipulation 
 
 To use PStrings in your VBA project, follow these steps:
 
-1. Download the PStrings module file from the [releases](https://github.com/example/PStrings/releases) section of this repository.
+1. Download the PStrings module file from the [releases](https://github.com/artemdorozhkin/PStrings/releases/) section of this repository.
 2. Import the PStrings module into your VBA project:
    - Open your Excel workbook or VBA project.
    - Press `Alt + F11` to open the VBA editor.
