@@ -1,4 +1,6 @@
-# PStrings Library
+# PStrings
+
+eng | [rus](README_ru.md)
 
 PStrings is a lightweight VBA library that provides various string manipulation functions to simplify common tasks in Visual Basic for Applications (VBA) programming.
 
@@ -560,8 +562,3 @@ Compares the equality of `Text1` and `Text2`.
 #### Returns:
 
 Returns `True` if the strings are equal.
-
-## License
-
-This library is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-Feel free to modify or enhance this README as needed for your GitHub repository!
